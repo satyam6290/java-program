@@ -1,6 +1,3 @@
-Certainly! Here's a README template for a Java program repository:
-
----
 
 # Java Program Repository
 
